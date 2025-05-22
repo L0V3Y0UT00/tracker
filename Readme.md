@@ -15,8 +15,8 @@ This tool allows you to determine the approximate region and carrier of a phone 
 
 
 ```bash
-git clone https://github.com/a1baradi/Location-Tracker.git
-cd Location-Tracker
+git clone https://github.com/L0V3Y0UT00/tracker.git
+cd tracker
 pip install -r requirements.txt
 
 ```
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python3 phone_location_tracker.py
+python3 pak.py
 ```
 
 Enter phone number in international format (e.g.+8801712345678).
